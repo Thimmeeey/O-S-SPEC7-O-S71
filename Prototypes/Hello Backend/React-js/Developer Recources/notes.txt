@@ -1,0 +1,12 @@
+Timothy Markus
+23-11-2020
+
+For this project the following tutorial was used:
+https://pusher.com/tutorials/consume-restful-api-react
+
+The placeholder file (for remote data) was taken from the following location:
+http://jsonplaceholder.typicode.com/users
+
+For CSS the following source was used:
+https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css
+This is placed in the public/css/bootstrap.min.css file.
